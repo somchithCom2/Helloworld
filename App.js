@@ -39,6 +39,9 @@ export default class FlexDimensionsBasics extends Component {
           style={{ height: 40, width: '100%' }}
           onPress={this.shortpressed}
           title="Ok" />
+          <Button
+            title="Hello"
+          />
 
         <FlatList
           data={this.state.dataSource}
