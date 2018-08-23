@@ -41,6 +41,15 @@ export default class FlexDimensionsBasics extends Component {
           title="Ok" />
           <Button
             title="Hello"
+            onPress={{}}
+          />
+          <Button
+            title="Hello"
+            onPress={{}}
+          />
+          <Button
+            title="Hello"
+            onPress={{}}
           />
 
         <FlatList
